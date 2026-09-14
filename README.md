@@ -33,14 +33,6 @@ Desarrollar el ciclo completo de un proyecto de Ciencia de Datos a partir del an
 
 ---
 
-## 📈 Principales resultados
-
-* **Procesamiento robusto:** Depuración y transformación de una base inicial de 47,636 registros y 26 variables, mejorando la completitud de los datos y manteniendo la integridad analítica sin descarte arbitrario de filas.
-* **Insights geográficos y taxonómicos:** Identificación de sesgos importantes, como la alta concentración de registros y endemismos en la región andina frente a otras zonas, y el comportamiento crítico de familias como las palmas (`Arecaceae`).
-* **Hallazgo crítico de evaluación:** Se detectó que el 92.4% de las especies endémicas nunca han sido evaluadas formalmente, evidenciando que el catálogo refleja el estado del conocimiento botánico más que el riesgo real de amenaza.
-* **Evaluación de Modelos:** Implementación experimental exitosa de traducción de texto a consultas Cypher, evaluada rigurosamente mediante partición por plantillas para evitar falsos positivos de sobreajuste.
-
----
 
 ## ▶️ Cómo ejecutar el notebook
 
