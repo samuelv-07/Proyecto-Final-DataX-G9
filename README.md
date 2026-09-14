@@ -16,11 +16,11 @@ El repositorio se encuentra organizado de la siguiente manera:
 
 ```text
 ├── informe/
-│   └── Informe_Proyecto_DataXperience_Grupo09.pdf  # Informe técnico detallado con fragmentos de código e interpretación
+│   └── DataXperience_Grupo09.html                 # Informe técnico detallado con fragmentos de código e interpretación
 ├── presentacion/
 │   └── Presentacion_Sustentacion_Grupo09.pdf      # Diapositivas para la defensa presencial
-├── notebook/
-│   └── Colab_DataXperience_Completado.ipynb       # Cuaderno de Google Colab con el código completo ejecutable
+├── colab/
+│   └── DataXperience_Grupo09.ipynb                # Cuaderno de Google Colab con el código completo ejecutable
 └── README.md                                      # Documentación general del proyecto
 
 ```
