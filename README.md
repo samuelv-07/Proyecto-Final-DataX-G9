@@ -17,10 +17,10 @@ El repositorio se encuentra organizado de la siguiente manera:
 ```text
 ├── informe/
 │   └── DataXperience_Grupo09.html                 # Informe técnico detallado con fragmentos de código e interpretación
-├── presentacion/
-│   └── Presentacion_Sustentacion_Grupo09.pdf      # Diapositivas para la defensa presencial
 ├── colab/
-│   └── DataXperience_Grupo09.ipynb                # Cuaderno de Google Colab con el código completo ejecutable
+│   └── DataXperience_Grupo09.ipynb                # Diapositivas para la presentacion de el proyecto
+├── presentacion/
+│   └── Plantas y Liquines de Colombia.pdf         # Cuaderno de Google Colab con el código completo ejecutable
 └── README.md                                      # Documentación general del proyecto
 
 ```
