@@ -33,17 +33,6 @@ Desarrollar el ciclo completo de un proyecto de Ciencia de Datos a partir del an
 
 ---
 
-## 🛠️ Tecnologías y herramientas
-
-* **Lenguaje:** Python 3
-* **Entorno de desarrollo:** Google Colab / Jupyter Notebooks
-* **Librerías principales de análisis y manipulación:** Pandas, NumPy
-* **Visualización de datos:** Matplotlib, Seaborn
-* **Modelado y Bases de Datos:** Neo4j (Grafos), Modelos de Lenguaje (LLM - Qwen2.5-Coder)
-* **Control de versiones:** Git y GitHub
-
----
-
 ## 📈 Principales resultados
 
 * **Procesamiento robusto:** Depuración y transformación de una base inicial de 47,636 registros y 26 variables, mejorando la completitud de los datos y manteniendo la integridad analítica sin descarte arbitrario de filas.
