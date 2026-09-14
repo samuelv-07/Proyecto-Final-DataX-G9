@@ -33,31 +33,6 @@ Desarrollar el ciclo completo de un proyecto de Ciencia de Datos a partir del an
 
 ---
 
-
-## ▶️ Cómo ejecutar el notebook
-
-Para reproducir los resultados y explorar el código del proyecto, sigue los siguientes pasos:
-
-1. **Clonar el repositorio:**
-```bash
-git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
-cd TU_REPOSITORIO
-
-```
-
-
-2. **Abrir el entorno:**
-* Dirígete a la carpeta `notebook/` y abre el archivo `Colab_DataXperience_Completado.ipynb` en [Google Colab](https://colab.research.google.com/).
-
-
-3. **Cargar datos y ejecutar:**
-* Asegúrate de ubicar o cargar el archivo de datos fuente (`catalogo_plantas_liquenes.csv`) en el entorno de ejecución si el script lo requiere.
-* Ejecuta las celdas en orden secuencial para verificar el flujo completo de limpieza, gráficos del EDA y modelado.
-
-
-
----
-
 ## 📚 Entregables
 
 * **Informe final del proyecto:** Documento en PDF (`informe/`) con la explicación teórica, desarrollo metodológico paso a paso, fragmentos de código, análisis y conclusiones.
