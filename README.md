@@ -61,9 +61,13 @@ cd TU_REPOSITORIO
 ## 📚 Entregables
 
 * **Informe final del proyecto:** Documento en PDF (`informe/`) con la explicación teórica, desarrollo metodológico paso a paso, fragmentos de código, análisis y conclusiones.
+
+
 * **Presentación de sustentación:** Diapositivas en PDF (`presentacion/`) optimizadas para la defensa presencial del grupo.
-* **Código fuente:** Cuaderno de Colab ejecutable (`notebook/`).📚 Entregables
-* **Archivo README: ** Documentación detallada del proyecto, estructura e instrucciones de ejecución (README.md).
+* **Código fuente:** Cuaderno de Colab ejecutable (`notebook/`).
+
+
+* **Archivo README:** Documentación detallada del proyecto, estructura e instrucciones de ejecución (`README.md`).
 
 ```
 
