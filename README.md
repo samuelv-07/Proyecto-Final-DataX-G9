@@ -22,3 +22,67 @@ El repositorio se encuentra organizado de la siguiente manera:
 ├── notebook/
 │   └── Colab_DataXperience_Completado.ipynb       # Cuaderno de Google Colab con el código completo ejecutable
 └── README.md                                      # Documentación general del proyecto
+
+```
+
+---
+
+## 🎯 Objetivo del proyecto
+
+Desarrollar el ciclo completo de un proyecto de Ciencia de Datos a partir del análisis del *Catálogo de Plantas y Líquenes de Colombia*, evidenciando rigor metodológico desde la adquisición, limpieza y exploración de los datos (EDA), hasta la extracción de patrones biológicos clave y la evaluación de un modelo experimental de lenguaje natural aplicado a bases de datos en grafos (Neo4j).
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+* **Lenguaje:** Python 3
+* **Entorno de desarrollo:** Google Colab / Jupyter Notebooks
+* **Librerías principales de análisis y manipulación:** Pandas, NumPy
+* **Visualización de datos:** Matplotlib, Seaborn
+* **Modelado y Bases de Datos:** Neo4j (Grafos), Modelos de Lenguaje (LLM - Qwen2.5-Coder)
+* **Control de versiones:** Git y GitHub
+
+---
+
+## 📈 Principales resultados
+
+* **Procesamiento robusto:** Depuración y transformación de una base inicial de 47,636 registros y 26 variables, mejorando la completitud de los datos y manteniendo la integridad analítica sin descarte arbitrario de filas.
+* **Insights geográficos y taxonómicos:** Identificación de sesgos importantes, como la alta concentración de registros y endemismos en la región andina frente a otras zonas, y el comportamiento crítico de familias como las palmas (`Arecaceae`).
+* **Hallazgo crítico de evaluación:** Se detectó que el 92.4% de las especies endémicas nunca han sido evaluadas formalmente, evidenciando que el catálogo refleja el estado del conocimiento botánico más que el riesgo real de amenaza.
+* **Evaluación de Modelos:** Implementación experimental exitosa de traducción de texto a consultas Cypher, evaluada rigurosamente mediante partición por plantillas para evitar falsos positivos de sobreajuste.
+
+---
+
+## ▶️ Cómo ejecutar el notebook
+
+Para reproducir los resultados y explorar el código del proyecto, sigue los siguientes pasos:
+
+1. **Clonar el repositorio:**
+```bash
+git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
+cd TU_REPOSITORIO
+
+```
+
+
+2. **Abrir el entorno:**
+* Dirígete a la carpeta `notebook/` y abre el archivo `Colab_DataXperience_Completado.ipynb` en [Google Colab](https://colab.research.google.com/).
+
+
+3. **Cargar datos y ejecutar:**
+* Asegúrate de ubicar o cargar el archivo de datos fuente (`catalogo_plantas_liquenes.csv`) en el entorno de ejecución si el script lo requiere.
+* Ejecuta las celdas en orden secuencial para verificar el flujo completo de limpieza, gráficos del EDA y modelado.
+
+
+
+---
+
+## 📚 Entregables
+
+* **Informe final del proyecto:** Documento en PDF (`informe/`) con la explicación teórica, desarrollo metodológico paso a paso, fragmentos de código, análisis y conclusiones.
+* **Presentación de sustentación:** Diapositivas en PDF (`presentacion/`) optimizadas para la defensa presencial del grupo.
+* **Código fuente:** Cuaderno de Colab ejecutable (`notebook/`).
+
+```
+
+```
